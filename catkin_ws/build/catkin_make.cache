@@ -1,0 +1,2 @@
+joy:ros_joystic_teleoperation:roslint
+-DCATKIN_DEVEL_PREFIX=/home/pi/ros_joystic_teleoperation/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ros_joystic_teleoperation/catkin_ws/install -G Unix Makefiles

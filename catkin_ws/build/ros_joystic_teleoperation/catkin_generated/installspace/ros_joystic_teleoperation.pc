@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_joystic_teleoperation/catkin_ws/install
+
+Name: ros_joystic_teleoperation
+Description: Description of ros_joystic_teleoperation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

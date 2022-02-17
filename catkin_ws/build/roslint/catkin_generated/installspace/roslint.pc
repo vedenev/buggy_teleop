@@ -1,0 +1,8 @@
+prefix=/home/pi/ros_joystic_teleoperation/catkin_ws/install
+
+Name: roslint
+Description: Description of roslint
+Version: 0.12.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

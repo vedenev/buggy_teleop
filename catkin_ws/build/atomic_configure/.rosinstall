@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/ros_joystic_teleoperation/catkin_ws/devel/setup.sh
